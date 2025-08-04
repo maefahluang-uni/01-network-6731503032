@@ -52,8 +52,10 @@ Think about the following,  modify the code to experiment it and put your though
 - What would be the benefit of running many instances?
 
 ```
-  Your thought here...
-```
+  1. Specify different port when running the server
+  2. Access it from 2 different computers
+  3. By modifying it using CSS and HTML
+  4. Many people can access it at the same time.
 **Please push the code back to Github to submit this lab**
 After you push, ensure you have green checkmark on the repository.
 <img width="692" height="201" alt="image" src="https://github.com/user-attachments/assets/0a4ab63d-7b6e-4711-90e7-b472bc11db2d" />
